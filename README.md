@@ -24,8 +24,6 @@ $ npm install zzy-page
 
 ```javascript
 const zzyPage = require('zzy-page')
-const result = zzyPage('zce')
-// result => 'zce@zce.me'
 ```
 
 ## API
@@ -45,7 +43,7 @@ const result = zzyPage('zce')
 
 - Type: `string`
 - Details: host string
-- Default: `'zce.me'`
+- Default: `'zzy.me'`
 
 ## Contributing
 
