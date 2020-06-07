@@ -1,0 +1,36 @@
+{
+  "name": "zzy-page",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "zzy-page",
+    "zce"
+  ],
+  "homepage": "https://github.com/zzy/zzy-page#readme",
+  "bugs": {
+    "url": "https://github.com/zzy/zzy-page/issues"
+  },
+  "license": "MIT",
+  "author": "a20070322 <1031839775@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzy/zzy-page.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
